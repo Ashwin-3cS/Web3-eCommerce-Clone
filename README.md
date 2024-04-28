@@ -1,5 +1,10 @@
 # Dappazon
 
+## This Clone is for learning purpose ..
+# Resource :Youtube 
+# Functional parts are coded by me ; by learning from youtube Tutorial 👍
+ 
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
